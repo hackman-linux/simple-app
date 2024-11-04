@@ -1,0 +1,15 @@
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/my_app
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hackman/development2/my_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
